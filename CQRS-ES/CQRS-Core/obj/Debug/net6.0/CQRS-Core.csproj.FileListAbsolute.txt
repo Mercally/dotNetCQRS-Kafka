@@ -1,0 +1,12 @@
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/bin/Debug/net6.0/CQRS-Core.deps.json
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/bin/Debug/net6.0/CQRS-Core.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/bin/Debug/net6.0/CQRS-Core.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/CQRS-Core.csproj.AssemblyReference.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/CQRS-Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/CQRS-Core.AssemblyInfoInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/CQRS-Core.AssemblyInfo.cs
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/CQRS-Core.csproj.CoreCompileInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/CQRS-Core.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/refint/CQRS-Core.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/CQRS-Core.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/CQRS-ES/CQRS-Core/obj/Debug/net6.0/ref/CQRS-Core.dll

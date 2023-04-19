@@ -1,0 +1,17 @@
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/Post.Cmd.Domain.deps.json
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/Post.Cmd.Domain.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/Post.Cmd.Domain.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/CQRS-Core.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/Post.Common.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/CQRS-Core.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/Post.Common.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.csproj.AssemblyReference.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.AssemblyInfoInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.AssemblyInfo.cs
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.csproj.CopyComplete
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/refint/Post.Cmd.Domain.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/ref/Post.Cmd.Domain.dll

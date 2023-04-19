@@ -1,0 +1,17 @@
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Query.Domain.deps.json
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Query.Domain.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Query.Domain.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/CQRS-Core.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Common.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/CQRS-Core.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Common.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.csproj.AssemblyReference.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.AssemblyInfoInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.AssemblyInfo.cs
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.csproj.CoreCompileInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.csproj.CopyComplete
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/refint/Post.Query.Domain.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/ref/Post.Query.Domain.dll

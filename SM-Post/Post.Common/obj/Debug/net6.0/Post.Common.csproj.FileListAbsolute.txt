@@ -1,0 +1,15 @@
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.deps.json
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/bin/Debug/net6.0/CQRS-Core.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/bin/Debug/net6.0/CQRS-Core.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.AssemblyReference.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfoInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfo.cs
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CoreCompileInputs.cache
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CopyComplete
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/refint/Post.Common.dll
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
+/Users/mercally/Projects/dotNetCQRS&Kafka/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
